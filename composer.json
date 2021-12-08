@@ -1,5 +1,5 @@
 {
-    "name": "narirock/pagarme-core-api-php",
+    "name": "pagarme/pagarme-core-api-php",
     "type": "library",
     "description": "Pagarme API",
     "keywords": ["PagarmeCoreApi","API","SDK"],
